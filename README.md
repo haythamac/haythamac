@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m @haythamac
 - 👀 I’m interested in programming and video games!
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me janssen.uy.dev@gmail.com
 
 ## Skills and tools
 <div id="badges">
