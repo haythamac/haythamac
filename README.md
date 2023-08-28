@@ -3,6 +3,19 @@
 - 🌱 I’m currently learning Laravel
 - 📫 Contact me janssen.uy.dev@gmail.com
 
+## Contact
+<div id="badges-2>
+  <a href="facebook.com/janssen.uy.0165">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="janssen.uy.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ## Skills and tools
 <div id="badges">
   <a href="https://laravel.com/">
