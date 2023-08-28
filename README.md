@@ -2,6 +2,12 @@
 - 👀 I’m interested in programming and video games!
 - 🌱 I’m currently learning Laravel
 - 📫 Contact me janssen.uy.dev@gmail.com
+## Contact
+<div id="badges">
+  <a href="https://www.facebook.com/janssen.uy.0165/">
+    <img src="https://img.shields.io/badge/Facebook-FF2D20?style=for-the-badge&logo=facebiij&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
 ## Skills and tools
 <div id="badges">
