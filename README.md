@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @haythamac
 - 👀 I’m interested in programming and video games!
-- 🌱 Laravel programmer
+- 🌱 Laravel and Vue programmer
 - 📫 Contact me janssen.uy.dev@gmail.com
 ## Contact
 <div id="badges">
