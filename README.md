@@ -2,7 +2,7 @@ Readme · MD
 
 I'm Janssen, a Full Stack Web Developer based in the Philippines — building performant, user-focused **software solutions and SaaS products**.
 
-These days I'm focused on:
+<strong> These days I'm focused on: </strong>
 <ul>
   <li>Laravel · Vue · Tailwind CSS  </li>
   <li>WebSockets · Webhooks · Payment Systems  </li>
@@ -11,7 +11,7 @@ These days I'm focused on:
 
 ---
 
-## Some stuff I built:
+<strong> Some stuff I built: </strong>
 
 | Project | Description |
 |---|---|
