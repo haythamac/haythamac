@@ -1,6 +1,6 @@
-Readme · MD
+Hi there! 
 
-I'm Janssen, a Full Stack Web Developer based in the Philippines — building performant, user-focused **software solutions and SaaS products**.
+I'm <a href="https://haythamac.github.io">Janssen</a>, a Full Stack Web Developer based in the Philippines — building performant, user-focused **software solutions and SaaS products**.
 
 **These days I'm focused on:**
 <ul>
