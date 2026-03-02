@@ -1,9 +1,7 @@
 Readme · MD
-# Hey, I'm Janssen 
 
-Full Stack Web Developer based in the Philippines — building performant, user-focused **software solutions and SaaS products**.
+I'm Janssen, a Full Stack Web Developer based in the Philippines — building performant, user-focused **software solutions and SaaS products**.
 
----
 These days I'm focused on:
 <ul>
   <li>Laravel · Vue · Tailwind CSS  </li>
