@@ -14,9 +14,10 @@ I'm Janssen, a Full Stack Web Developer based in the Philippines — building pe
 **Some stuff I built:**
 
 <ul>
-  <li>Mileage Calculator Deposit calculator tool for a game </li>
-  <li>Guild Management System Admin panel for guild operations </li>
-  <li>Folkvang Timer Boss spawn timer for a game </li>
-  <li>Admin Dashboard *(archived)*  E-commerce store management dashboard </li>
-  <li>Learning Management System *(archived)*  Platform for online learning delivery </li>
+  <li><a href="https://github.com/haythamac/ymir-mileage-calculator">Mileage Calculator</a> – Deposit calculator tool for a game</li>
+  <li><a href="https://github.com/haythamac/paragon-fe">Guild Management System</a> – Admin panel for guild operations</li>
+  <li><a href="https://github.com/haythamac/folkvang">Folkvang Timer</a> – Boss spawn timer for a game</li>
+  <li>Admin Dashboard <em>(archived)</em> – E-commerce store management dashboard</li>
+  <li>Learning Management System <em>(archived)</em> – Platform for online learning delivery</li>
 </ul>
+
